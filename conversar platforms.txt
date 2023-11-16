@@ -1,0 +1,79 @@
+Can you tell me about Conversar?
+We believe that the future for work and public spaces lies not in siloed communications but integrated channels for communication, collaboration, and visualization.
+
+
+What is the Conversar Story?
+We have a mission to revolutionize the way people connect and interact in the workplace and in public environments. Our founders recognized the need for a platform that could unify communications across both physical and digital spaces.
+
+
+
+Tell me about Conversar WorkPlace Communications?
+
+Workplace Communications:
+Improve internal communication with targeted messaging on digital signage and our template designer
+Conversar Workplace Communications solutions help you reach every employee with an omni-channel approach. Create once, publish everywhere – to the Employee App, on digital signage across the office, and the company intranet.
+
+Tell me about Conversar WorkPlace Management?
+Centralise room scheduling, desk booking, wayfinding and visitor management
+Conversar Workplace Management solutions unify your physical and digital workplace. Tools to manage room scheduling, contactless check-in, and more are available in an employee app, intranet, and integrated into the tools you use every day.
+
+
+Utterance 4: 
+What's the processor used in the Comet Neutron E6?
+The Comet Neutron E6 uses a Vega Starfire 435 processor.
+
+Utterance 5: 
+Can you tell me more about the camera specifications of the Comet Neutron E6?
+Sure, the Comet Neutron E6 comes with a 13MP rear camera and a 5MP front camera.
+
+Utterance 6: 
+How long is the battery life on the Comet Neutron E6?
+The Comet Neutron E6 is equipped with a 3000mAh removable battery that can support up to 29 hours of talk time.
+
+Utterance 7: 
+Does the Comet Neutron E6 have any special features?
+Yes, the Comet Neutron E6 has a water repellent design.
+
+Utterance 8: 
+How much storage does the Comet Neutron E6 offer and is it expandable?
+The Comet Neutron E6 comes with 16GB of storage, but it's expandable up to 256GB via a microSD card.
+
+Utterance 9: 
+What type of display does the Nebula Star A51 have?
+The Nebula Star A51 comes with a 6.5-inch Super AMOLED display with a resolution of 1080x2400 pixels.
+
+Utterance 10: 
+Can you tell me about the camera setup on the Nebula Star A51?
+The Nebula Star A51 has a quad rear camera setup with a 48MP wide angle lens, a 12MP ultrawide lens, and two 5MP lenses for macro and depth shots. The front camera is 32MP.
+
+Utterance 11: 
+What is the OS on the Nebula Star A51 and is it upgradable?
+The Nebula Star A51 operates on Android 10, but it can be upgraded to Android 11. It also comes with Nova UI 3.1.
+
+Utterance 12: 
+What are the special features of the Nebula Star A51?
+The Nebula Star A51 comes with special features like an under-display optical fingerprint sensor and a 3.5mm headphone jack.
+
+Utterance 13: 
+Does the Nebula Star A51 support fast charging and how long does the battery last?
+Yes, the Nebula Star A51 supports 15W fast charging. It also comes with a 4000mAh battery that can last up to 32 hours of talk time.
+
+Utterance 14: 
+Could you tell me about the display on the Pinnacle Prestige 13 Pro?
+The Pinnacle Prestige 13 Pro features a 6.1-inch Super Retina XDR OLED display with a 1170 x 2532-pixel resolution. It also has a 120Hz GlideSmooth refresh rate.
+
+Utterance 15: 
+What are the camera specifications for the Pinnacle Prestige 13 Pro?
+The Pinnacle Prestige 13 Pro comes with a trifocal rear camera setup, which includes three 12MP lenses for wide, ultrawide, and telephoto shots. The front camera is also 12MP.
+
+Utterance 16: 
+What is the operating system on the Pinnacle Prestige 13 Pro?
+The Pinnacle Prestige 13 Pro operates on pie-OS 15.
+
+Utterance 17: 
+Tell me more about the special features of the Pinnacle Prestige 13 Pro.
+The Pinnacle Prestige 13 Pro is loaded with special features. It's IP68 dust and water resistant, has Fortified Shield glass, a Pinnacle 5-core graphics GPU, and is 5G capable. It also supports MagnaSafe wireless charging up to 15W.
+
+Utterance 18: 
+What are the available storage options on the Pinnacle Prestige 13 Pro, and can I expand them?
+The Pinnacle Prestige 13 Pro comes with a choice of 128GB, 256GB, 512GB, or 1TB of storage. However, it does not support storage expansion.
